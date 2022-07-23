@@ -111,5 +111,4 @@ Example:
 `There is no ARIA ROLES`
 `The navigation needs redesign`
 
-I know I am supposed to showcase my CSS and JS skill however you can check my github repos to get a sense of my CSS level. 
-Did'nt use all the 3 hours but if I would spend more time on this, I would probably redesign everything from ground up. 
+
